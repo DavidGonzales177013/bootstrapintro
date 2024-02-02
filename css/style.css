@@ -1,0 +1,7 @@
+.container-lg, .container-fluid {
+    background-color: blueviolet;
+}
+
+.col{
+    border: 1px solid bisque;
+}
